@@ -34,6 +34,33 @@ Roll-A-Ball-Game Project - All Version Updates;
 - Some of colletables weren't rotating on their own axis during the game. (Resolved with with precise 15-degree angles.)
 - Error messages = 1 (fixed just spesific degree angles in Script.)
 ----------------------------------------------------------------------------------------
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <img width="1221" height="457" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/2a8ae80c-e51a-4205-8b7f-d4abc63a1386" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   // Roll-A-Ball-Game Update V1.0 = Roll-A-Ball-Game V1.0;
 
 - Updated Player movement command in Script to get all collectibles.
