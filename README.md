@@ -30,7 +30,7 @@ Roll-A-Ball-Game Project - All Version Updates;
   // Roll-A-Ball-Game Update V0.5 = Complete creating collectibles;
 
 - I created a new Prefab folder to apply the same principle to copies of a single object.
-- I made 12 collectables around the character.
+- I made 12 collectibles around the character.
 - Some of colletables weren't rotating on their own axis during the game. (Resolved with with precise 15-degree angles.)
 - Error messages = 1 (fixed just specific degree angles in Script.)
 ----------------------------------------------------------------------------------------
